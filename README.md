@@ -1,68 +1,83 @@
-<div align="center">
+# Hamza Ba-mohammed
 
-# Hi there, I'm Hamza Ba-mohammed 👋
+**PhD Researcher (Adversarial MARL) | AI Engineer | Mathematician**
 
-### PhD Candidate | AI Research Engineer | Data Scientist
+I specialize in the security and robustness of Multi-Agent Systems. My work bridges the gap between **Game Theory**, **Deep Reinforcement Learning**, and **Software Engineering**.
 
-*Adversarial Multi-Agent Reinforcement Learning & AI Safety*
-
-[Website](https://hambam.top) • [LinkedIn](https://linkedin.com/in/hambam) • [Google Scholar](https://scholar.google.com/citations?user=NdATUncAAAAJ) • [Twitter](https://twitter.com/hambamX)
+[![Website](https://img.shields.io/badge/Portfolio-hambam.top-4B0082?style=flat&logo=google-chrome&logoColor=white)](https://hambam.top)
+[![Scholar](https://img.shields.io/badge/Google_Scholar-Citations-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=NdATUncAAAAJ)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/hambam)
 
 ---
 
+## 🔬 Current Research Focus: Adversarial MARL
+
+My PhD focuses on **heterogeneous multi-agent systems** and their vulnerability to adversarial attacks. I am investigating how agents learn (and fail) in non-cooperative, stochastic environments.
+
+* **Key Domains:** Game Theory, Stochastic Games, Nash Equilibrium Finding.
+* **Problem Space:** Robustness against poisoning attacks, evasion attacks in MARL.
+
+---
+
+## 🛠️ Engineering & Research Stack
+
+<table align="center">
+  <tr>
+    <td align="center" width="25%"><b>Core Languages</b></td>
+    <td align="center" width="25%"><b>Deep Learning & RL</b></td>
+    <td align="center" width="25%"><b>Data Science & Math</b></td>
+    <td align="center" width="25%"><b>DevOps & Tools</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=python,cpp,bash,latex" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" /><br>
+      <code>Gymnasium</code> <code>PettingZoo</code>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=scikitlearn,pandas,numpy,matlab" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=git,docker,linux,jekyll" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## 💻 Featured Projects
+
+### 1. Adversarial MARL Survey & Implementation
+*State-of-the-art review and benchmarking of adversarial attacks in multi-agent environments.*
+* **Tech:** Python, PyTorch, PettingZoo, LaTeX
+* **Focus:** Replicating attack vectors on cooperative agents.
+
+### 2. Socio-Economic Stress Predictor (NLP)
+*A web application predicting social stress indices using sentiment analysis on news headlines.*
+* **Tech:** Python, NLP Transformers, Scikit-learn, Web Frameworks
+* **Focus:** Real-time data pipeline and sentiment classification.
+
+### 3. Football Analytics Suite
+*Applying mathematical modeling and machine learning to football data for performance analysis.*
+* **Tech:** Python, Pandas, Matplotlib, Statistical Modeling
+* **Focus:** Predictive modeling and game theory application in sports.
+
+### 4. Moroccan Mathematical Community (MMC) Platform
+*Digital infrastructure for the MMC association.*
+* **Tech:** Jekyll, GitHub Pages, Community Management
+* **Focus:** Open-source community building.
+
+---
+
+## 📊 GitHub Performance
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hamba-m&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&count_private=true" height="180" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamba-m&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" height="180" alt="languages" />
 </div>
 
-## 👨‍💻 About Me
-
-Welcome to my GitHub profile! I am a **PhD Candidate** based in Morocco, specializing in **Adversarial Multi-Agent Reinforcement Learning (MARL)**. My work bridges the gap between theoretical research and practical engineering, focusing on the security and robustness of multi-agent systems.
-
-I run **HamBam's Corner**, a space where I explore the intersection of technology, business, and art.
-
-* **🔭 I’m currently working on:** Adversarial attacks and defenses in heterogeneous multi-agent environments.
-* **🌱 I’m currently learning:** Advanced Game Theory and generative models for agent simulation.
-* **🤝 I’m open to collaborating on:** Open-source RL libraries, AI safety research, and academic publications.
-* **💬 Ask me about:** Reinforcement Learning, Stochastic Games, and Python engineering.
-
----
-
-## 🛠️ Technical Arsenal
-
 <div align="center">
-
-| **Core Languages** | **AI & Data Science** | **Tools & DevOps** |
-|:---:|:---:|:---:|
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) <br> ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) <br> ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) <br> ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) <br> ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) <br> ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
-
-</div>
-
-### 🔬 Research Stack
-* **Algorithm Design:** LaTeX, Gymnasium (OpenAI Gym), PettingZoo
-* **Visualization:** Matplotlib, Seaborn, WandB (Weights & Biases)
-* **Web & Publishing:** Jekyll, Markdown, GitHub Pages
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-![Hamza's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamba-m&show_icons=true&theme=radical&count_private=true)
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamba-m&layout=compact&theme=radical" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hamba-m&theme=radical" width="48%" />
-
-</div>
-
----
-
-## 📝 Latest from [HamBam.top](https://hambam.top)
-
-* **Research:** Deep dives into MARL security challenges.
-* **Engineering:** Tutorials on setting up robust RL environments.
-* **Reflections:** Thoughts on the evolving landscape of AI in North Africa.
-
-<div align="center">
-  <a href="mailto:bamohammed.empimo@gmail.com">
-    <img src="https://img.shields.io/badge/Shoot_me_an_email-bamohammed.empimo@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamba-m&theme=dark&hide_border=true&background=0d1117" alt="streak" />
 </div>
