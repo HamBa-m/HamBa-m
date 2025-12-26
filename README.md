@@ -1,83 +1,73 @@
 # Hamza Ba-mohammed
 
-**PhD Researcher (Adversarial MARL) | AI Engineer | Mathematician**
+**PhD Candidate | AI Research Engineer | Data Scientist**
 
-I specialize in the security and robustness of Multi-Agent Systems. My work bridges the gap between **Game Theory**, **Deep Reinforcement Learning**, and **Software Engineering**.
+I specialize in **Adversarial Multi-Agent Reinforcement Learning (MARL)**, focusing on the security and robustness of autonomous systems. My work bridges **Game Theory**, **Deep RL**, and **Software Engineering**.
 
 [![Website](https://img.shields.io/badge/Portfolio-hambam.top-4B0082?style=flat&logo=google-chrome&logoColor=white)](https://hambam.top)
-[![Scholar](https://img.shields.io/badge/Google_Scholar-Citations-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=NdATUncAAAAJ)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/hambam)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Citations-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=NdATUncAAAAJ)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-00CCBB?style=flat&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Hamza-Ba-Mohammed-2)
 
----
+## 💼 Work Experience
 
-## 🔬 Current Research Focus: Adversarial MARL
+* **AI Consultant** @ *AY Automate* (Remote)
+  * Developing **RAG** (Retrieval-Augmented Generation) applications and **Azure AI** assistants.
+  * Building sports prediction engines using **FastAPI** and **Docker**.
 
-My PhD focuses on **heterogeneous multi-agent systems** and their vulnerability to adversarial attacks. I am investigating how agents learn (and fail) in non-cooperative, stochastic environments.
+* **AI Research Engineer** @ *Ai Movement - UM6P* (Rabat)
+  * Conducted research on **Deep Reinforcement Learning** for satellite constellations.
+  * Modeled problems using **Dec-MDP** and implemented **MADDPG** using **PettingZoo**.
 
-* **Key Domains:** Game Theory, Stochastic Games, Nash Equilibrium Finding.
-* **Problem Space:** Robustness against poisoning attacks, evasion attacks in MARL.
+* **Research Assistant** @ *Ai Movement - UM6P* (Rabat)
+  * Worked on **Multi-Agent Reinforcement Learning** for nano-satellite networks (MEC).
+  * Implemented **MA3C** and **DDPG** algorithms in custom environments.
 
----
+* **Data Scientist** @ *Architeo* (Remote)
+  * Developed intelligent chatbots using the **RASA** framework.
+  * Managed **CI/CD** pipelines and integrated solutions with **React** and **Node.js**.
 
-## 🛠️ Engineering & Research Stack
+## 💻 Projects
 
-<table align="center">
-  <tr>
-    <td align="center" width="25%"><b>Core Languages</b></td>
-    <td align="center" width="25%"><b>Deep Learning & RL</b></td>
-    <td align="center" width="25%"><b>Data Science & Math</b></td>
-    <td align="center" width="25%"><b>DevOps & Tools</b></td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=python,cpp,bash,latex" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" /><br>
-      <code>Gymnasium</code> <code>PettingZoo</code>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=scikitlearn,pandas,numpy,matlab" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=git,docker,linux,jekyll" />
-    </td>
-  </tr>
-</table>
+### **Aabar: Water Resource Management**
+* **Tech:** LLaMa-3, GNN, Random Forest, RAG.
+* **Focus:** Predicting water depth using hybrid KNN/GNN and handling natural language queries via Large Language Models.
 
----
+### **SparkBuild: Energy Optimization**
+* **Tech:** PyTorch Geometric, Genetic Algorithms, ReactJS.
+* **Focus:** Optimizing energy consumption in buildings using **Graph Convolutional Networks (GCN)**.
 
-## 💻 Featured Projects
+### **SmartPharma**
+* **Tech:** LSTM (Long Short-Term Memory).
+* **Focus:** Supply chain analytics and demand forecasting.
 
-### 1. Adversarial MARL Survey & Implementation
-*State-of-the-art review and benchmarking of adversarial attacks in multi-agent environments.*
-* **Tech:** Python, PyTorch, PettingZoo, LaTeX
-* **Focus:** Replicating attack vectors on cooperative agents.
+### **scinis-learn**
+* **Tech:** Python (NumPy).
+* **Focus:** Implementing ML algorithms (Perceptron, Adaline, Regression) from scratch to understand mathematical foundations.
 
-### 2. Socio-Economic Stress Predictor (NLP)
-*A web application predicting social stress indices using sentiment analysis on news headlines.*
-* **Tech:** Python, NLP Transformers, Scikit-learn, Web Frameworks
-* **Focus:** Real-time data pipeline and sentiment classification.
+## 🎓 Education
 
-### 3. Football Analytics Suite
-*Applying mathematical modeling and machine learning to football data for performance analysis.*
-* **Tech:** Python, Pandas, Matplotlib, Statistical Modeling
-* **Focus:** Predictive modeling and game theory application in sports.
+* **PhD in Artificial Intelligence** | *UM6P - Mohammed VI Polytechnic University* (2024 - 2028)
+* **Engineering Degree in Data Science & IoT** | *ENSIAS* (2021 - 2024)
+* **CPGE (MPSI/MP)** | *Lydex / Moulay Youssef* (2019 - 2021)
 
-### 4. Moroccan Mathematical Community (MMC) Platform
-*Digital infrastructure for the MMC association.*
-* **Tech:** Jekyll, GitHub Pages, Community Management
-* **Focus:** Open-source community building.
+## 🛠️ Tech Stack
 
----
+**Deep Learning & RL**
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![PettingZoo](https://img.shields.io/badge/PettingZoo-FF6F00?style=flat&logo=python&logoColor=white)
+![RASA](https://img.shields.io/badge/RASA-5A17EE?style=flat&logo=rasa&logoColor=white)
 
-## 📊 GitHub Performance
+**Web & DevOps**
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+
+## 📊 Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hamba-m&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&count_private=true" height="180" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamba-m&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" height="180" alt="languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamba-m&theme=dark&hide_border=true&background=0d1117" alt="streak" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=hamba-m&show_icons=true&theme=github_dark" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=hamba-m&theme=github_dark" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=hamba-m&layout=compact&theme=github_dark" />
 </div>
