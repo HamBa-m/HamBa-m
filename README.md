@@ -1,43 +1,68 @@
-# Hi, I'm Hamza Ba-mohammed (HamBa-m) 👋
+<div align="center">
 
-I'm an R&D AI Engineer and PhD student specializing in Adversarial Multi-Agent Reinforcement Learning. I love exploring innovative solutions in artificial intelligence and machine learning to solve real-world challenges.
+# Hi there, I'm Hamza Ba-mohammed 👋
 
-## About Me
+### PhD Candidate | AI Research Engineer | Data Scientist
 
-- **Profession:** R&D AI Engineer
-- **Studies:** PhD student in Adversarial Multi-Agent Reinforcement Learning
-- **Institution:** College of Computing, UM6P
-- **Location:** Benguerir, Morocco
+*Adversarial Multi-Agent Reinforcement Learning & AI Safety*
 
-Passionate about research and development, I strive to bridge theory with practical applications. When I’m not experimenting with new AI models or optimizing algorithms, I enjoy collaborating with the community and contributing to open-source projects.
-
-## Skills & Technologies
-
-- **Programming:** Python
-- **Machine Learning:** Developing practical and educational ML packages
-- **Optimization:** Implementing unconstrained optimization algorithms
-- **Reinforcement Learning:** Focusing on adversarial multi-agent systems
-
-## Projects
-
-### [scinis-learn](https://github.com/HamBa-m/scinis-learn)
-A collection of non-OOP functions for Machine Learning, developed from scratch by young Moroccan AI engineering students. This project emphasizes simplicity and efficiency in ML implementations.
-
-### [hambam-unconstraint-optimization](https://github.com/HamBa-m/hambam-unconstraint-optimization)
-An implementation repository of various unconstrained optimization algorithms used in AI engineering. This project serves as a learning resource for first-year AI engineering students at UM5-ENSIAS.
-
-## Achievements
-
-- Earned recognitions such as **Pull Shark** and **Quickdraw** on GitHub.
-- Continually pushing the boundaries of both research and practical development in AI.
-
-## Connect with Me
-
-- **LinkedIn:** [Hamza Ba-mohammed](https://www.linkedin.com/in/hambam)
-- **Twitter (X):** [@HamBamX](https://twitter.com/HamBamX)
-
-Feel free to reach out if you'd like to collaborate or learn more about my work!
+[Website](https://hambam.top) • [LinkedIn](https://linkedin.com/in/hambam) • [Google Scholar](https://scholar.google.com/citations?user=NdATUncAAAAJ) • [Twitter](https://twitter.com/hambamX)
 
 ---
 
-*Working from home*
+</div>
+
+## 👨‍💻 About Me
+
+Welcome to my GitHub profile! I am a **PhD Candidate** based in Morocco, specializing in **Adversarial Multi-Agent Reinforcement Learning (MARL)**. My work bridges the gap between theoretical research and practical engineering, focusing on the security and robustness of multi-agent systems.
+
+I run **HamBam's Corner**, a space where I explore the intersection of technology, business, and art.
+
+* **🔭 I’m currently working on:** Adversarial attacks and defenses in heterogeneous multi-agent environments.
+* **🌱 I’m currently learning:** Advanced Game Theory and generative models for agent simulation.
+* **🤝 I’m open to collaborating on:** Open-source RL libraries, AI safety research, and academic publications.
+* **💬 Ask me about:** Reinforcement Learning, Stochastic Games, and Python engineering.
+
+---
+
+## 🛠️ Technical Arsenal
+
+<div align="center">
+
+| **Core Languages** | **AI & Data Science** | **Tools & DevOps** |
+|:---:|:---:|:---:|
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) <br> ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) <br> ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) <br> ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) <br> ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) <br> ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
+
+</div>
+
+### 🔬 Research Stack
+* **Algorithm Design:** LaTeX, Gymnasium (OpenAI Gym), PettingZoo
+* **Visualization:** Matplotlib, Seaborn, WandB (Weights & Biases)
+* **Web & Publishing:** Jekyll, Markdown, GitHub Pages
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+![Hamza's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamba-m&show_icons=true&theme=radical&count_private=true)
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamba-m&layout=compact&theme=radical" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hamba-m&theme=radical" width="48%" />
+
+</div>
+
+---
+
+## 📝 Latest from [HamBam.top](https://hambam.top)
+
+* **Research:** Deep dives into MARL security challenges.
+* **Engineering:** Tutorials on setting up robust RL environments.
+* **Reflections:** Thoughts on the evolving landscape of AI in North Africa.
+
+<div align="center">
+  <a href="mailto:bamohammed.empimo@gmail.com">
+    <img src="https://img.shields.io/badge/Shoot_me_an_email-bamohammed.empimo@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
